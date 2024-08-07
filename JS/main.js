@@ -64,6 +64,6 @@ function showUser(url){
 }
 
 function goHome(){
-    window.location.href = "index.php";
+    window.location.href = "users.php";
 }
 
